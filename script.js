@@ -112,7 +112,7 @@ document.addEventListener('DOMContentLoaded', function() {
 // 創建 Line 懸浮按鈕
 function createLineFloatingButton() {
     const button = document.createElement('a');
-    button.href = 'https://lin.ee/xpg6INJ';
+    button.href = 'https://lin.ee/86981hwD';
     button.target = '_blank';
     button.className = 'line-floating-button';
     
